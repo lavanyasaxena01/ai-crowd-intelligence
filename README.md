@@ -1,4 +1,4 @@
-# Crowd Flow Optimiser — Grand Prix Problem Statement 3
+# Crowd Flow Optimiser
 
 AI-powered **Crowd Flow Optimiser** for simulating venue crowds, detecting bottlenecks, recommending safer routes, evaluating interventions, and optionally analyzing crowd stills via **Hugging Face Hub**.
 
