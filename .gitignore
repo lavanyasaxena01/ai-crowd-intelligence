@@ -1,0 +1,22 @@
+# Python virtual environment
+backend/venv/
+
+# Python cache
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Secrets / environment variables
+backend/.env
+.env
+frontend/.env
+
+# Generated ML models
+backend/data/models/*.joblib
+
+# Frontend dependencies/build
+frontend/node_modules/
+frontend/dist/
+
+# OS files
+.DS_Store
