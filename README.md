@@ -2,7 +2,7 @@
 
 AI-powered **Crowd Flow Optimiser** for simulating venue crowds, detecting bottlenecks, recommending safer routes, evaluating interventions, and optionally analyzing crowd stills via **Hugging Face Hub**.
 
-## Problem (PDF)
+## Problem
 
 > Crowd Flow Optimiser: Simulating and Rerouting Crowds in Real Time
 
